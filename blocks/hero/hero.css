@@ -30,7 +30,7 @@
   height: 100%;
 }
 .hero ul li {
-    color: var{--light-color);
+    color: var{--light-color) !important;
               }
 @media (width >= 900px) {
   .hero {
