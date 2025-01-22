@@ -30,6 +30,10 @@
   height: 100%;
 }
 
+.hero ul {
+    color: var(--background-color);
+}
+
 @media (width >= 900px) {
   .hero {
     padding: 40px 32px;
